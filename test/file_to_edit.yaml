@@ -1,0 +1,13 @@
+- TestCaseTitle: "\u4F20\u53C2\u6B63\u5E38"
+  caseId: 1
+  data:
+    partId: 956222363702276096
+  expect:
+    msg: ''
+    state: SUCCESS
+    success: true
+  header:
+    Authorization: null
+    Content-type: application/json
+  method: post
+  path: /ic/part/item/list
